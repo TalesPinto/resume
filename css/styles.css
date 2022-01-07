@@ -1,0 +1,104 @@
+body {
+  border-width: 0;
+  margin: 0;
+}
+
+h1 {
+  color: #1A374D;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-size: 130px;
+  font-weight: bold;
+  margin: 15px;
+}
+
+h2 {
+  color: #1A374D;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  margin: 15px;
+}
+
+p {
+  color: #1A374D;
+  font-family: 'Roboto', sans-serif;
+  font-size: 75px;
+  font-weight: bold;
+  margin: 15px;
+}
+
+.clouds {
+  background-color: #c1def0;
+  border-width: 0;
+  display: block;
+  margin: 0;
+  width: 100%;
+}
+
+.greeting {
+  background-color: #c1def0;
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  height: auto;
+  width: 100%;
+}
+
+.mountain {
+  background-color: #c1def0;
+  border-width: 0;
+  display: block;
+  margin: 0;
+  width: 100%;
+}
+
+.my-skills {
+  margin: 200px auto 200px auto;
+  text-align: center;
+  width: 50%;
+}
+
+.webdev-content {
+  text-align: left;
+  margin-top: 150px;
+}
+
+.webdev-img {
+  float: left;
+  margin-right: 150px;
+  width: 25%;
+}
+
+.civileng-content {
+  text-align: left;
+  margin-top: 300px;
+}
+
+.civileng-img {
+  float: left;
+  margin-right: 150px;
+  width: 25%;
+}
+
+.my-contacts {
+  text-align: center;
+  width: 25%;
+  margin: 300px auto 300px auto;
+}
+
+.facebook-img {
+  margin-top: 300px;
+  height: 200px;
+  float: left;
+}
+
+.instagram-img {
+  margin-top: 300px;
+  height: 200px
+}
+
+.email-img {
+  margin-top: 300px;
+  height: 200px;
+  float: right;
+}
