@@ -6,7 +6,7 @@ body {
 h1 {
   color: #1A374D;
   font-family: 'M PLUS 1p', sans-serif;
-  font-size: 130px;
+  font-size: 3rem;
   font-weight: bold;
   margin: 15px;
 }
@@ -14,7 +14,7 @@ h1 {
 h2 {
   color: #1A374D;
   font-family: 'M PLUS 1p', sans-serif;
-  font-size: 100px;
+  font-size: 2rem;
   font-weight: bold;
   margin: 15px;
 }
@@ -22,7 +22,7 @@ h2 {
 p {
   color: #1A374D;
   font-family: 'Roboto', sans-serif;
-  font-size: 75px;
+  font-size: 1rem;
   font-weight: bold;
   margin: 15px;
 }
@@ -53,52 +53,61 @@ p {
 }
 
 .my-skills {
-  margin: 200px auto 200px auto;
+  margin: 100px auto 100px auto;
   text-align: center;
   width: 50%;
 }
 
 .webdev-content {
   text-align: left;
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 .webdev-img {
   float: left;
-  margin-right: 150px;
+  margin-right: 15px;
   width: 25%;
 }
 
 .civileng-content {
   text-align: left;
-  margin-top: 300px;
+  margin-top: 150px;
 }
 
 .civileng-img {
   float: left;
-  margin-right: 150px;
+  margin-right: 15px;
   width: 25%;
 }
 
 .my-contacts {
+  background-color: #c1def0;
+  margin-bottom: 100px;
+}
+
+.my-contacts-box {
+  background-color: #c1def0;
   text-align: center;
   width: 25%;
-  margin: 300px auto 300px auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin: 100px auto 100px auto;
 }
 
 .facebook-img {
-  margin-top: 300px;
-  height: 200px;
+  margin-top: 50px;
+  margin-left: 50px;
   float: left;
 }
 
 .instagram-img {
-  margin-top: 300px;
-  height: 200px
+  margin-top: 50px;
+  height: 50px;
 }
 
 .email-img {
-  margin-top: 300px;
-  height: 200px;
+  margin-top: 50px;
+  height: 50px;
+  margin-right: 50px;
   float: right;
 }
